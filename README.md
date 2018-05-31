@@ -1,7 +1,7 @@
 # EarlGrey-Convenience
 Convenience functions for EarlGrey UI testing. This is not really exhaustive, it will grow as we use it.
 
-## Installations
+## Installation
 Just drag `EarlGrey+Convenience.swift` to your project.
 
 ## API
